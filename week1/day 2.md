@@ -1,4 +1,6 @@
-# Day 2, Understanding SDLC (Software Development Life Cycle)
+# Day 2 
+
+Understanding SDLC (Software Development Life Cycle)
 
 SDLC is a culture/process followed by all software companies,
 
