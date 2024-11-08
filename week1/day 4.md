@@ -7,6 +7,7 @@ it was fun knowing, different ways to make ec2, through api, anyone can save tim
 AWS CLI 
 AWS CFT
 AWS CDK
+
 Terraform and other ways you can spin up services 
 
 if Terraform is used that means, it's hybrid, the org, is using services from 2 or cloud providers ( example Aws, Gcp, Azure )
