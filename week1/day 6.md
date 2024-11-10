@@ -43,4 +43,4 @@ nproc – check the number of CPUs
 
 df -h – check available disk space
 
-top – view CPU, disk space, and RAM usage in real time
+top – view CPU, disk space, and RAM usage in real time!
